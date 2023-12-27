@@ -1,6 +1,8 @@
 # cns_project
 DNA Cryptography
 
+Implemented a Symmetric Key Cipher Algorithm using DNA Cryptography
+
 Project Report
 
 
